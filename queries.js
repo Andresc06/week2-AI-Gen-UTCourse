@@ -7,30 +7,33 @@ import Thread from './models/Thread.js';
 
 
 async function query1() {
-    // Write code for Query 1 here
+    const user = await User.findOne({email: "diana@example.com"});
+    console.log(user);
 }
 
 async function query2() {
-    // Write code for Query 2 here
+    const subreddits = await Subreddit.findOne({name: "programming"});
+    const threads = await Thread.find({subreddit: subreddits._id});
+    console.log(threads);
 }
 
 async function query3() {
-    // Write code for Query 3 here
+    const UsersId = await Thread.distinct("author");
+    const users = await User.find({_id: {$in: UsersId}});
+    console.log(users);
 }
 
 async function query4() {
-    // Write code for Query 4 here
+    const threads = await Thread.find({ 'createdAt': { $gte: new Date('2024-01-01') } });
+    console.log(threads);
 }
-
-// more queries
 
 async function runQueries() {
     // Uncomment the query you want to run
     // await query1();
     // await query2();
     // await query3();
-    // await query4();
-    // more
+    await query4();
 }
 
 async function main() {
