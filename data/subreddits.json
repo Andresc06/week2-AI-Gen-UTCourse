@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "6aa58787e63da3d4985f882a",
+    "name": "javascript",
+    "description": "All things JavaScript",
+    "author": "6aa58787e63da3d4985f8827",
+    "createdAt": "2026-07-24T15:15:19.532Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f882b",
+    "name": "programming",
+    "description": "General programming discussions",
+    "author": "6aa58787e63da3d4985f8821",
+    "createdAt": "2026-08-05T03:08:15.535Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f882c",
+    "name": "webdev",
+    "description": "Web development tips and news",
+    "author": "6aa58787e63da3d4985f8828",
+    "createdAt": "2026-09-03T10:18:00.198Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f882d",
+    "name": "gaming",
+    "description": "Video games and gaming culture",
+    "author": "6aa58787e63da3d4985f8820",
+    "createdAt": "2026-08-04T12:33:50.260Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f882e",
+    "name": "movies",
+    "description": "Discuss your favorite films",
+    "author": "6aa58787e63da3d4985f8823",
+    "createdAt": "2026-09-07T22:58:22.673Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f882f",
+    "name": "science",
+    "description": "Scientific discoveries and discussions",
+    "author": "6aa58787e63da3d4985f8820",
+    "createdAt": "2026-08-01T21:25:33.224Z"
+  }
+]

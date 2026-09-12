@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "6aa58787e63da3d4985f8820",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "hashed_password_alice_6274",
+    "createdAt": "2026-08-19T00:52:05.257Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8821",
+    "name": "Bob",
+    "email": "bob@example.com",
+    "password": "hashed_password_bob_6670",
+    "createdAt": "2026-07-29T08:37:53.115Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8822",
+    "name": "Carol",
+    "email": "carol@example.com",
+    "password": "hashed_password_carol_6797",
+    "createdAt": "2026-08-02T12:34:22.712Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8823",
+    "name": "Dave",
+    "email": "dave@example.com",
+    "password": "hashed_password_dave_8748",
+    "createdAt": "2026-08-29T11:59:07.312Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8824",
+    "name": "Erin",
+    "email": "erin@example.com",
+    "password": "hashed_password_erin_7948",
+    "createdAt": "2026-08-01T04:04:28.725Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8825",
+    "name": "Frank",
+    "email": "frank@example.com",
+    "password": "hashed_password_frank_7969",
+    "createdAt": "2026-07-17T00:01:26.984Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8826",
+    "name": "Grace",
+    "email": "grace@example.com",
+    "password": "hashed_password_grace_7133",
+    "createdAt": "2026-09-11T01:31:18.487Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8827",
+    "name": "Heidi",
+    "email": "heidi@example.com",
+    "password": "hashed_password_heidi_2601",
+    "createdAt": "2026-08-23T08:39:43.187Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8828",
+    "name": "Ivan",
+    "email": "ivan@example.com",
+    "password": "hashed_password_ivan_3012",
+    "createdAt": "2026-08-02T15:56:26.239Z"
+  },
+  {
+    "_id": "6aa58787e63da3d4985f8829",
+    "name": "Judy",
+    "email": "judy@example.com",
+    "password": "hashed_password_judy_9824",
+    "createdAt": "2026-08-07T21:19:29.447Z"
+  }
+]
